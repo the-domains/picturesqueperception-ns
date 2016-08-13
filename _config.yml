@@ -1,0 +1,28 @@
+name: PicturesquePerception.ns
+favicon: null
+layout_spectrum: 0.15859080059453845
+typography_spectrum: 0.4495822915341705
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#000000'
+    - '#e0c7e0'
+    - '#f5eb9b'
+    - '#4c3332'
+    - '#fbbc25'
+  brandStrength: 0.7853667908348143
+  lightness: 0.0673809943255037
+  saturation: 0.8530636029317975
+  rhythmicContrast: 0.6517678294330835
+purpose: []
